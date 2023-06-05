@@ -1,0 +1,11 @@
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\bin\Debug\estudiantes1.exe.config
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\bin\Debug\estudiantes1.exe
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\bin\Debug\estudiantes1.pdb
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.csproj.AssemblyReference.cache
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.Form1.resources
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.Properties.Resources.resources
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.csproj.GenerateResource.cache
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.csproj.CoreCompileInputs.cache
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.exe
+C:\Users\rcedeno\Documents\induccion\c#\estudiantes1\estudiantes1\obj\Debug\estudiantes1.pdb
